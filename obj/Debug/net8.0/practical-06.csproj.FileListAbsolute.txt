@@ -1,0 +1,15 @@
+/Users/tejaschitroda/Desktop/practical-06/bin/Debug/net8.0/practical-06
+/Users/tejaschitroda/Desktop/practical-06/bin/Debug/net8.0/practical-06.deps.json
+/Users/tejaschitroda/Desktop/practical-06/bin/Debug/net8.0/practical-06.runtimeconfig.json
+/Users/tejaschitroda/Desktop/practical-06/bin/Debug/net8.0/practical-06.dll
+/Users/tejaschitroda/Desktop/practical-06/bin/Debug/net8.0/practical-06.pdb
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.AssemblyInfoInputs.cache
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.AssemblyInfo.cs
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.csproj.CoreCompileInputs.cache
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.sourcelink.json
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.dll
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/refint/practical-06.dll
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.pdb
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/practical-06.genruntimeconfig.cache
+/Users/tejaschitroda/Desktop/practical-06/obj/Debug/net8.0/ref/practical-06.dll
